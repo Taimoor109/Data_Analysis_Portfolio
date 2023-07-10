@@ -10,11 +10,12 @@ This is a repository to showcase skills, share projects and track my progress in
 
 The Advanced Data Analytics program prepared me for a career as a data analyst by helping me learn to clean and organize data, uncover patterns and insights, draw meaningful conclusions, and clearly communicate critical findings. I am developing proficiency in Python and its data analysis libraries (Numpy, pandas, matplotlib) and SQL as I build a portfolio of projects.
 
-Tips: For data science projects with python, I would recomend you to install numpy , pandas , scipy , scikit learn , matplotlib , seaborn thest basic libraries.
+Tips: For data science projects with python, I would recommend you install numpy , pandas , scipy , scikit learn , matplotlib , seaborn these basic libraries.
 ## Table of contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
   + [Yellow Taxi Trip Data Analysis](#yellow-taxi-trip-data-analysis)
+  + [EDA and visualization of New York City TLC's data](#eda-and-visualization-of-new-york-city-tlc's-data)
 - [Certificates](#certificates)
 - [Contacts](#contacts)
 
@@ -30,7 +31,7 @@ In this section, I will list data analytics projects briefly describing the tech
 **Technology:** Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib.  
 **Results:** After looking at the dataset, the two variables that are most likely to help build a predictive model for taxi ride fares are total_amount and trip_distance because those variables show a picture of a taxi cab ride.  
 
-### A Mobile Game Data Analysis
+### EDA and visualization of New York City TLC's data
 **Code:** [`final_project.ipynb`](https://github.com/nktnlx/data_analysis_course/blob/main/37_final_project/final_project.ipynb)    
 **Presentation:** [`my_project_slides.pdf`](https://github.com/nktnlx/data_analysis_course/blob/main/37_final_project/my_project_slides.pdf)   
 **Description:** The final project for 5 month Data Analysis Course. Setup: you're employed in a mobile games development company. A Product Manager gives you following tasks: to find and visualize retention, to make a decision based on the A/B test data, to suggest a number of metrics to evaluate the results of the last monthly campaign.   

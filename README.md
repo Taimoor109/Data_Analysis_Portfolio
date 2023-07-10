@@ -24,10 +24,12 @@ In this section, I will list data analytics projects briefly describing the tech
 
 ### Yellow Taxi Trip Data Analysis
 **Code:** [`Automatidata Projec Inspect and analyze data (1).ipynb`](https://github.com/Taimoor109/Data_Analysis_Portfolio/blob/main/inspect%20and%20analyze%20data/Automatidata%20Projec%20Inspect%20and%20analyze%20data%20(1).ipynb)    
-**Description:** The dataset contains 16715 records as of 2016. There is a list of video games with sales (by region), year of release, platform, critics and users score. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing region based user profiles, measuring statistical factors, hypothesis testing.  
+**The purpose:** of this project is to investigate and understand the data provided.
+
+**The goal:** is to use a dataframe contructed within Python, perform a cursory inspection of the provided dataset, and inform team members of your findings.   
 **Skills:** data cleaning, data analysis, descriptive statistics, central limit theorem, hypothesis testing, data visualization.  
 **Technology:** Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib.  
-**Results:** Review of the global and regional video games markets, data-based business recommendations.  
+**Results:** After looking at the dataset, the two variables that are most likely to help build a predictive model for taxi ride fares are total_amount and trip_distance because those variables show a picture of a taxi cab ride.  
 
 ### A Mobile Game Data Analysis
 **Code:** [`final_project.ipynb`](https://github.com/nktnlx/data_analysis_course/blob/main/37_final_project/final_project.ipynb)    

@@ -33,7 +33,8 @@ In this section, I will list data analytics projects briefly describing the tech
 
 ### EDA and visualization of New York City TLC's data
 **Code:** [`Exploratory Data Analysis.ipynb`](https://github.com/Taimoor109/Data_Analysis_Portfolio/blob/main/exploratory%20data%20analysis%20(EDA)/EDA%20and%20data%20visualization%20of%20New%20York%20City%20TLC%20data.ipynb)    
-**Presentation:** [`my_project_slides.pdf`](https://github.com/nktnlx/data_analysis_course/blob/main/37_final_project/my_project_slides.pdf)   
+**Presentation:** [`my_project_slides.pdf`](https://github.com/Taimoor109/Data_Analysis_Portfolio/blob/main/exploratory%20data%20analysis%20(EDA)/EDA%20and%20data%20visualization%20of%20New%20York%20City%20TLC%20data.pdf)   
+**Tableau Visualization:**['Data visualization'](https://github.com/Taimoor109/Data_Analysis_Portfolio/blob/main/exploratory%20data%20analysis%20(EDA)/Tableau%20viz.png)
 **Description:** The final project for 5 month Data Analysis Course. Setup: you're employed in a mobile games development company. A Product Manager gives you following tasks: to find and visualize retention, to make a decision based on the A/B test data, to suggest a number of metrics to evaluate the results of the last monthly campaign.   
 **Skills:** data cleaning, detecting data anomalies, python coding, data visualization, descriptive statistics, dealing with outliers, A/B tests, Shapiro–Wilk test, Levene's test, data transforms, Mann–Whitney U test, proportions z-test, bootstrapping, defining metrics.    
 **Technology:** Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib, Statsmodels Stats, Bootstrap.     

@@ -60,7 +60,5 @@ I believe that the best way to showcase skills is by doing and sharing your job 
 - [The Power of Statistics](https://coursera.org/share/04b98bf0e3e6e1b48f0d7750b3001b2c) (Jul 2023) (Google)
 
 ## Contacts
-- LinkedIn: [@nktnlx](https://www.linkedin.com/in/nktnlx)
-- Telegram: [@nktnlx](https://t.me/nktnlx)
-- Twitter: [@nktn_lx](https://twitter.com/nktn_lx)
-- E-mail: nktn.lx@gmail.com
+- LinkedIn: [Taimoor Akhtar](https://www.linkedin.com/in/taimoorakhtar33/)
+- E-mail: taimoorakhtar33@gmail.com

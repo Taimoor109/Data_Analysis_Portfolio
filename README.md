@@ -14,15 +14,16 @@ The Advanced Data Analytics program prepared me for a career as a data analyst b
 Tips: For data science projects with python, I would recomend you to install numpy , pandas , scipy , scikit learn , matplotlib , seaborn thest basic libraries.
 ## Table of contents
 - [About](#about)
-
+- [Portfolio Projects](#portfolio-projects)
+  + [Yellow Taxi Trip Data Analysis](#yellow-taxi-trip-data-analysis)
 - [Certificates](#certificates)
 - [Contacts](#contacts)
 
 ## Portfolio Projects
-In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+In this section, I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-### Video Games Sales Analysis
-**Code:** [`video_games_sales.ipynb`](https://github.com/nktnlx/data_analysis_portfolio/blob/main/video_games_sales.ipynb)    
+### Yellow Taxi Trip Data Analysis
+**Code:** [`Automatidata Projec Inspect and analyze data (1).ipynb`](https://github.com/Taimoor109/Data_Analysis_Portfolio/blob/main/inspect%20and%20analyze%20data/Automatidata%20Projec%20Inspect%20and%20analyze%20data%20(1).ipynb)    
 **Description:** The dataset contains 16715 records as of 2016. There is a list of video games with sales (by region), year of release, platform, critics and users score. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing region based user profiles, measuring statistical factors, hypothesis testing.  
 **Skills:** data cleaning, data analysis, descriptive statistics, central limit theorem, hypothesis testing, data visualization.  
 **Technology:** Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib.  

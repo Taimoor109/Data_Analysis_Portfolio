@@ -3,7 +3,7 @@ Hi, I'm Taimoor! I have an analytical background in Business and Computer Scienc
 
 During my courses, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience in data management, and statistical analysis, which I believe will be valuable assets in my role as a data specialist.
 
-My CV in [pdf](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/Tianna%20Parris%20CV.pdf).
+My CV in [pdf](https://github.com/Taimoor109/Data_Analysis_Portfolio/blob/main/Taimoor%20Akhtar-Resume.pdf).
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 This repository is mainly for projects I have done under Google Advanced Data Analytics Professional Certificate.

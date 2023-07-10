@@ -16,6 +16,7 @@ Tips: For data science projects with python, I would recommend you install numpy
 - [Portfolio Projects](#portfolio-projects)
   + [Yellow Taxi Trip Data Analysis](#yellow-taxi-trip-data-analysis)
   + [EDA and visualization of New York City TLC's data](#eda-and-visualization-of-new-york-city-tlc's-data)
+  + [A/B testing](#a/b-testing)
 - [Certificates](#certificates)
 - [Contacts](#contacts)
 
@@ -41,13 +42,13 @@ In this section, I will list data analytics projects briefly describing the tech
 **Technology:** Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib, Statsmodels Stats.     
 **Results:** python functions to calculate and plot users retention, hypothesis testing, detecting statistically significant results with a recommendation to push tested in-app changes into production, and a set of metrics to evaluate the success of the promotion campaign.  
 
-### A Landing Page Design Experiment
-**Code:** [`notebook.ipynb`](https://github.com/nktnlx/side_projects/blob/master/4_career_factory/notebook.ipynb)    
-**Presentation:** [`slides.pdf`](https://github.com/nktnlx/side_projects/blob/master/4_career_factory/slides.pdf)    
-**Description:** My solution to an open Data Analyst competition held by [Карьерный Цех](https://careerfactory.ru/). The solution took the 7th place in the competition (≈100 solutions were submitted by participants).     
-**Skills:** evaluating A/B-test design, data cleaning, data anomalies detection, checking splitting system, calculating conversion rate, calculating bounce rate, log-scale transformations, Shapiro–Wilk test of distribution normality, A/B-tests (proportions z-test, Mann–Whitney rank test), plotting results, making conclusion and giving recommendations for follow-up actions.      
+### A/B Testing
+**Code:** [`notebook.ipynb`](https://github.com/Taimoor109/Data_Analysis_Portfolio/blob/main/hypothesis%20testing/AB%20testing.py)    
+**Presentation:** [`slides.pdf`](https://github.com/Taimoor109/Data_Analysis_Portfolio/blob/main/hypothesis%20testing/AB%20testing.pdf)    
+**The goal** is to apply descriptive statistics and hypothesis testing in Python. The goal for this A/B test is to sample data and analyze whether there is a relationship between payment type and fare amount. For example: discover if customers who use credit cards pay higher fare amounts than customers who use cash.     
+**Skills:** evaluating A/B-test design, data cleaning, data anomalies detection, checking splitting system, plotting results, making conclusion and giving recommendations for follow-up actions.      
 **Technology:** Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib, Statsmodels Stats.   
-**Results:** this dataset has some outliers that will need to make decisions on prior to designing a model. 
+**Results:** This project requires an assumption that passengers were forced to pay one way or the other, and that once informed of this requirement, they always complied with it. The data was not collected this way; so, an assumption had to be made to randomly group data entries to perform an A/B test. This dataset does not account for other likely explanations. For example, riders might not carry lots of cash, so it's easier to pay for longer/farther trips with a credit card. In other words, it's far more likely that fare amount determines payment type, rather than vice versa. The difference between average card payment fare and cash fare is inflated, because we use the total amount as the comparing variable. But cash fares all have tip values of $0, while card payments have non-zero values. A possible reason for this occurance is because cash tips aren't declared. In turn, this means that we capture tips in one group but not in the other. Instead, one could compare the `fare_amount` column. 
 
 
 ## Certificates

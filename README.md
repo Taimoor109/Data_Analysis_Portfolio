@@ -52,8 +52,12 @@ In this section, I will list data analytics projects briefly describing the tech
 
 
 ## Certificates
-I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result:) So here is a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
-- [Algorithms Training 3.0 by Yandex](https://drive.google.com/file/d/1EQ5p0F_acNAXgnKBhgGhxLl-8W6HlCid/view?usp=sharing) (Apr 2023) (Yandex)
+I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result:) So here is a list of the ones I have ( with the date of completion in brackets):
+- [Foundations of Data Science](https://coursera.org/share/e3b21e0f3981b99f5d754f58e32b349c) (May 2023) (Google)
+- [Get Started with Python](https://www.coursera.org/account/accomplishments/verify/YNBW6FN2QEGK?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course) (Jun 2023) (Google)
+- [Share Data Through the Art of Visualization](https://www.coursera.org/account/accomplishments/verify/TRNQF52EZFTF?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course) (Jun 2023) (Google)
+- [Go Beyond the Numbers: Translate Data into Insights]([https://coursera.org/share/e3b21e0f3981b99f5d754f58e32b349c](https://coursera.org/share/4bb4d958ca91d68246dcbd22675fb477)) (Jun 2023) (Google)
+- [The Power of Statistics](https://coursera.org/share/04b98bf0e3e6e1b48f0d7750b3001b2c) (Jul 2023) (Google)
 
 ## Contacts
 - LinkedIn: [@nktnlx](https://www.linkedin.com/in/nktnlx)

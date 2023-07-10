@@ -39,7 +39,7 @@ In this section, I will list data analytics projects briefly describing the tech
 **The goal** is to clean data set and create a visualization.  
 **Skills:** data cleaning, detecting data anomalies, python coding, data visualization, descriptive statistics, dealing with outliers, A/B tests, and data transforms.    
 **Technology:** Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib, Statsmodels Stats.     
-**Results:** python functions to calculate and plot users retention, hypothesis testing, detecting statistically significant result with a recommendation to push tested in-app changes into production, a set of metrics to evaluate success of promotion campaign.  
+**Results:** python functions to calculate and plot users retention, hypothesis testing, detecting statistically significant results with a recommendation to push tested in-app changes into production, and a set of metrics to evaluate the success of the promotion campaign.  
 
 ### A Landing Page Design Experiment
 **Code:** [`notebook.ipynb`](https://github.com/nktnlx/side_projects/blob/master/4_career_factory/notebook.ipynb)    
@@ -49,17 +49,6 @@ In this section, I will list data analytics projects briefly describing the tech
 **Technology:** Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib, Statsmodels Stats.   
 **Results:** this dataset has some outliers that will need to make decisions on prior to designing a model. 
 
-
-### ab testing course by google
-**Description:** A/B Testing Course by Google. [The course official page](https://www.udacity.com/course/ab-testing--ud257?autoenroll=true).  
-This 1 month course covers how to choose and characterize metrics to evaluate your experiments, how to design an experiment with enough statistical power, how to analyze the results and draw valid conclusions.  
-**Repository:** Check the repository having my notes and useful links on A/B testing based on the course lectures, tasks and materials ---> [go to repo..](https://github.com/nktnlx/ab_testing_by_google_udacity)  
-**Status:** Completed in February 2023 (please, check the certificates section below).  
-
-
-### Tableau Vizzes
-**Description:** My Tableau Public account ---> [go to Tableau..](https://public.tableau.com/profile/nktn.lx#!/)  
-**Status:** ∞  
 
 ## Certificates
 I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result:) So here is a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):

@@ -6,7 +6,7 @@ Hi, I'm Taimoor! with analytical background, I have developed a strong foundatio
 
 During my courses, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience in data management, and statistical analysis, which I believe will be valuable assets in my role as a data specialist.
 
-My CV is in [pdf](https://github.com/Taimoor109/Data_Analysis_Portfolio/blob/main/Taimoor%20Akhtar-Resume.pdf).
+My CV is in [pdf](https://github.com/Taimoor109/Data_Analysis_Portfolio/blob/main/Taimoor%20Akhtar-Resume.pdf ).
 
 This is a repository to showcase skills, share projects and track my progress in projects I have done under Google Advanced Data Analytics Professional Certificate.
 

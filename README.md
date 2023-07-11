@@ -2,11 +2,11 @@
 ![Alt Text](https://github.com/Taimoor109/Data_Analysis_Portfolio/blob/main/exploratory%20data%20analysis%20(EDA)/Tableau%20viz.png)
 
 ## About
-Hi, I'm Taimoor! I have an analytical background in Business and Computer Science. Currently, I am on track to completing my degree in Data Science (MS. Data Science). I have developed a strong foundation in hypothesis testing and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data specialist.
+Hi, I'm Taimoor! with analytical background, I have developed a strong foundation in hypothesis testing and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data science as a data specialist.
 
 During my courses, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience in data management, and statistical analysis, which I believe will be valuable assets in my role as a data specialist.
 
-My CV in [pdf](https://github.com/Taimoor109/Data_Analysis_Portfolio/blob/main/Taimoor%20Akhtar-Resume.pdf).
+My CV is in [pdf](https://github.com/Taimoor109/Data_Analysis_Portfolio/blob/main/Taimoor%20Akhtar-Resume.pdf).
 
 This is a repository to showcase skills, share projects and track my progress in projects I have done under Google Advanced Data Analytics Professional Certificate.
 

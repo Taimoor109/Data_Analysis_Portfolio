@@ -1,4 +1,6 @@
 # Taimoor Akhtar - Data_Analysis_Portfolio
+![Alt Text](https://github.com/Taimoor109/Data_Analysis_Portfolio/blob/main/exploratory%20data%20analysis%20(EDA)/Tableau%20viz.png)
+
 ## About
 Hi, I'm Taimoor! I have an analytical background in Business and Computer Science. Currently, I am on track to completing my degree in Data Science (MS. Data Science). I have developed a strong foundation in hypothesis testing and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data specialist.
 

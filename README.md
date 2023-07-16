@@ -8,10 +8,6 @@ During my courses, I honed my ability to work with complex data and developed a 
 
 My CV is in [pdf](https://github.com/Taimoor109/Data_Analysis_Portfolio/blob/main/Taimoor%20Akhtar-Resume.pdf ).
 
-This is a repository to showcase skills, share projects and track my progress in projects I have done under Google Advanced Data Analytics Professional Certificate.
-
-The Advanced Data Analytics program prepared me for a career as a data analyst by helping me learn to clean and organize data, uncover patterns and insights, draw meaningful conclusions, and clearly communicate critical findings. I am developing proficiency in Python and its data analysis libraries (Numpy, pandas, matplotlib) and SQL as I build a portfolio of projects.
-
 Tips: For data science projects with python, I would recommend you install numpy , pandas , scipy , scikit learn , matplotlib , seaborn these basic libraries.
 ## Table of contents
 - [About](#about)

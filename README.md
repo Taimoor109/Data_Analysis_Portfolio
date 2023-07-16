@@ -1,4 +1,4 @@
-# Taimoor Akhtar - Data_Analysis_Portfolio
+# Data_Analysis_Portfolio
 ![Alt Text](https://github.com/Taimoor109/Data_Analysis_Portfolio/blob/main/exploratory%20data%20analysis%20(EDA)/Tableau%20viz.png)
 
 ## About
